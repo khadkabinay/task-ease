@@ -1,4 +1,4 @@
-# task - ease
+# task-ease
 
 ## About
 
