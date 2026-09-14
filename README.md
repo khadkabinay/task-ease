@@ -1,8 +1,8 @@
-# TaskEase
+# task - ease
 
 ## About
 
-### TaskEase is a task management software that can help an admin to manage the tasks. It tracks resources and progress as well as helps make decisions when changes are needed.
+### Task-Ease is a task management software that can help an admin to manage the tasks. It tracks resources and progress as well as helps make decisions when changes are needed.
 
 ## User Stories
 
